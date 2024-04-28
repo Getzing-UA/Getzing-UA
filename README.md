@@ -1,4 +1,4 @@
-#Getzing website
+## Getzing website
 
 ### Getzing landing page designer and developed by Denis Khramov, exported from Webflow.
 
